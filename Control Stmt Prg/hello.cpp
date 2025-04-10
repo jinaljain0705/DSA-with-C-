@@ -1,7 +1,9 @@
-/*WAP to check wheather 3 values taken from user is greater then the given value or not. And also check all values are equal or not.*/
+// This program takes two integers as input and prints their sum.
 /*
 Algorithm:
 1. Start the program.
+2. Declare two integer variables 'n' and 'l' to store the input numbers.
+3. Prompt the user to enter two integers and read them into 'n' and 'l'.
 */
 #include<iostream>
 using namespace std;
